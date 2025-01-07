@@ -181,7 +181,7 @@ if ($result->num_rows > 0) {
                     </div>
                     <div>
                     <div id="wrap">
-    <a href="/mysite/assets/pdf/Suresh.wdev.pdf" class="btn-slide" target="_blank">
+    <a href="/mysite/assets/pdf/Suresh.webd.pdf" class="btn-slide" target="_blank">
         <span class="circle">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                 <path class="download-svg"
